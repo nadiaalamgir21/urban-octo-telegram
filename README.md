@@ -1,11 +1,12 @@
 # Code Refactor project
 
-#Link to the deployed application
+# Link to the deployed application
 https://nadiaalamgir21.github.io/urban-octo-telegram/
 
-
+# Description
 This project is helping me learn to debug, refactor code and write opitimize CSS.
 
+# Changes and optimzations
 So far in this challenge I was able to detect or alter in, Line 29 was missing id element for search engine
 which was causing for the button function to fail.
 
